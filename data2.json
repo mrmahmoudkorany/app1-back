@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "fname": "mahmoud",
+    "lname": "qorany",
+    "city": "Bani suif",
+    "age": 26
+  },
+  {
+    "id": 2,
+    "fname": "Ahmed",
+    "lname": "Ali",
+    "city": "Sohag",
+    "age": 29
+  },
+  {
+    "id": 4,
+    "fname": "Abd Elrahman",
+    "lname": "salama",
+    "city": "alex",
+    "age": 28
+  },
+  {
+    "id": 6,
+    "fname": "Ali",
+    "lname": "Sameer",
+    "city": "Ismailia",
+    "age": 24
+  },
+  {
+    "id": 7,
+    "fname": "mahmoud",
+    "lname": "qorany",
+    "city": "minia",
+    "age": 27
+  },
+  {
+    "id": 8,
+    "fname": "Taha",
+    "lname": "Salah",
+    "city": "Cairo",
+    "age": 41
+  }
+]
